@@ -1,13 +1,15 @@
 Package: com.g0ldsn0w.myscriptcalcuator
 Version: 1.3.2
 Architecture: iphoneos-arm
-Maintainer: G0ldSn0w <G0ldSn0w@protonmail.com>
+Maintainer: G0ldSn0w
 Filename: /com.g0ldsn0w.myscriptcalculator_1.3.2_iphoneos-arm.deb
 Depends: net.angelxwind.appsyncunified
 Size: 7272818
 MD5sum: 3a6db59f3918040b159458bb9fccd338
 SHA1: 320191147f00498215aaa5c49e040a60017831ae
 SHA256: 3e5a712b2f34d10f1a81438fdae3b48dc5683bb13e20e3bce8265a8b3fda9c14
+SHA 512: b2779ba2fb472f978e48550ca02a358354189f69af7bb64e915de60c8ce96db0b26cba6bafdb9ea05374a44fd7182b422701662cf65ef74d03b1d55030c2f055
+Homepage: https://twitter.com/g0ldsn0w
 Section: Applications
 Description: The classic writting calculator removed from App Store is here
 Author: g0ldsn0w <g0ldsn0w@protonmail.com>
