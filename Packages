@@ -14,3 +14,16 @@ Section: Applications
 Description: The classic writting calculator removed from App Store is here
 Author: g0ldsn0w <g0ldsn0w@protonmail.com>
 Name: MyScriptCalculator
+
+Package: com.g0ldsn0w.Unc0ver&Android-BootLogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: G0ldSn0w
+Filename: /Unc0ver&Android-BootLogo
+Depends: mobilesubstrate, firmware(>=11)
+Size: 1531996
+Homepage: https://twitter.com/g0ldsn0w
+Section: BootLogos
+Description: A simple handmade bootlogo
+Author: g0ldsn0w <g0ldsn0w@protonmail.com>
+Name: Unc0ver&Android-BootLogo
