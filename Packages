@@ -20,7 +20,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: g0ldsn0w <g0ldsn0w@protonmail.com>
 Filename: ./debfiles/com.g0ldsn0w.Unc0verAndroid-BootLogo_1.0_iphoneos-arm.deb
-Depends: mobilesubstrate, firmware(>=11)
+Depends: mobilesubstrate
 Size: 1509372
 MD5sum: a77a3c31557dcf3a89870d2911a45069
 SHA1: fbd56a0293e5ea85e74923fdd9934aef0a915daf
