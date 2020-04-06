@@ -2,8 +2,8 @@ Package: com.g0ldsn0w.myscriptcalcuator
 Version: 1.3.2
 Architecture: iphoneos-arm
 Maintainer: G0ldSn0w
-Filename: /com.g0ldsn0w.myscriptcalculator_1.3.2_iphoneos-arm.deb
-Depends: net.angelxwind.appsyncunified
+Filename: ./debfiles/com.g0ldsn0w.myscriptcalculator_1.3.2_iphoneos-arm.deb
+Depends: mobilesubstrate, firmware(>=11)
 Size: 7272818
 MD5sum: 3a6db59f3918040b159458bb9fccd338
 SHA1: 320191147f00498215aaa5c49e040a60017831ae
@@ -18,12 +18,16 @@ Name: MyScriptCalculator
 Package: com.g0ldsn0w.Unc0ver&Android-BootLogo
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: G0ldSn0w
-Filename: /Unc0ver&Android-BootLogo
+Maintainer: g0ldsn0w <g0ldsn0w@protonmail.com>
+Filename: ./debfiles/com.g0ldsn0w.Unc0verAndroid-BootLogo_1.0_iphoneos-arm.deb
 Depends: mobilesubstrate, firmware(>=11)
-Size: 1531996
+Size: 1509372
+MD5sum: a77a3c31557dcf3a89870d2911a45069
+SHA1: fbd56a0293e5ea85e74923fdd9934aef0a915daf
+SHA256: 7771a691d455df4aae0f9a4d7848812f71d74a6176523e72e9600726b9233f7f
+SHA512: 655c456c0f7ce5e1acc7075b81e6777706850cf6045e2c28de5bc450da246146f4718280662e54097ee4240435f6e8dddb34be7a5e5ac082de3348724fe416ae
 Homepage: https://twitter.com/g0ldsn0w
 Section: BootLogos
-Description: A simple handmade bootlogo
+Description: A simple handmade unc0ver bootlogo
 Author: g0ldsn0w <g0ldsn0w@protonmail.com>
 Name: Unc0ver&Android-BootLogo
